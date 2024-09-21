@@ -60,7 +60,7 @@ You can Verify your deployed contracts on Discord Quests
 #
 
 ## Complete Quest: Contract Creation and Verification Discord
-Do not `submit` if you want to get more points. Click `Edit` ,then `Verify` again for more Contracts
+Do not `submit` if you want to get more points. Click `Edit` ,then `Verify` again after you deployed and verified more Contracts
 ![Screenshot_310](https://github.com/user-attachments/assets/2cc68e1e-d2a8-4c9d-97d6-dada35d3e058)
 
 
