@@ -1,7 +1,7 @@
 # Deploy Contract on Fhenix Testnet
 
 ## Wallet
-1. Create a Metamask wallet
+1. Create a Metamask wallet ( Use the wallet you connected to Discord Quests)
 2. Get Faucet by typing /faucet in [Discord](https://discord.gg/fhenix-io) OR [Bridge](https://bridge.helium.fhenix.zone/) from Sepolia
 
 ## Add Fhenix Testnet to Metamask
