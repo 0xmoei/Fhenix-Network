@@ -66,3 +66,7 @@ Do not `submit` if you want to get more points. Click `Edit` ,then `Verify` agai
 ![Screenshot_310](https://github.com/user-attachments/assets/2cc68e1e-d2a8-4c9d-97d6-dada35d3e058)
 
 
+#
+
+Quest 3 (Gas used per contract by other users) is easy you must transact using another address with your contract, I'll add a guide for it later. I'm sleepy
+
