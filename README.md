@@ -22,7 +22,7 @@
 ## Deploy Contract using Remix (Manually)
 1- Visit [Remix](https://remix.ethereum.org/)
 
-2- Create a `SimpleStorage.sol` file and paste This in editing menu
+2- Create a `SimpleStorage.sol` file and paste [This](https://raw.githubusercontent.com/0xmoei/Fhenix-Network/refs/heads/main/SimpleStorage.sol) in editing menu
 
 ![image](https://github.com/user-attachments/assets/e6c8742f-83c0-4682-b548-54dc4a27b9dc)
 
