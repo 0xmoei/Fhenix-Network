@@ -51,9 +51,11 @@ You can Verify your deployed contracts on Discord Quests
 
 ![Screenshot_308](https://github.com/user-attachments/assets/f824b88e-1bb9-4986-9d63-61661af5a01e)
 
+
 #
 
-3. **If it's NOT verified**, You can Click `Publish & Verify` and Verify it by simply choose `Flattened source code`, Paste your `Contract code `,and Click `Publish & Verify`
+
+**If it's NOT verified**, You can Click `Publish & Verify` and Verify it by simply choose `Flattened source code`, Paste your `Contract code `,and Click `Publish & Verify`
 
 ![Screenshot_309](https://github.com/user-attachments/assets/4496368c-a81c-41c3-8306-0a017894273a)
 
